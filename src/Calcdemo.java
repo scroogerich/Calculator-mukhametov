@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Калькулятор {
+public class  {
     public static void main(String[] args) {
         System.out.println("Введите математическое задание (например, 2 + 2):");
 
